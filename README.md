@@ -8,7 +8,7 @@ Demonstration of slack notification for Cloud Build status
 
 
 ## Steps
-1. Create a Slack App [https://api.slack.com/apps?new_app=1]
+1. Create a [new Slack App](https://api.slack.com/apps?new_app=1)
 2. Note down webhook 
 3. Update webhook in Cloud Function index.js
 4. Deploy the cloud function
