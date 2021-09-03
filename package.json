@@ -1,0 +1,11 @@
+﻿{
+  "name": "gcp-cloud-build-slack-notify",
+  "version": "0.1.0",
+  "author": "mano",
+  "license": "MIT",  
+  "description": "Slack notification for Google Cloud Build",
+  "main": "index.js",
+  "dependencies": {
+    "@slack/client": "5.0.2"
+  }
+}
